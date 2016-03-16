@@ -1,0 +1,40 @@
+article {
+	height:1000px;
+	width: 1000px;
+	margin: 0 auto;
+}
+header{
+	width:100%;
+	height:100px;
+}
+footer{
+	width:100%;
+	height:100px;
+	text-align: center;
+}
+.picture{
+	float:left;
+	height:600px;
+	width:440px;
+}
+.description{
+	float:right;
+	height:600px;
+	width:440px;
+}
+.details{
+	clear:both;
+	height:300px;
+	width:940px;
+	padding:50px 20px;
+}
+.cover{
+	width:100%;
+	height:100%;
+}
+.details p,ul{
+	margin:0px;
+}
+.tittle{
+	text-align: center;
+}
